@@ -6,4 +6,4 @@ vamos a instalar la librería NumPy para realizar esto puedes utilizar pip, que 
 2.	2.	Ejecuta el siguiente comando para instalar NumPy: pip install numpy
 ![github-small](numpy.png)
 3. Ahora verifiquemos si se instalo correctamente con el siguiente comando: pip show numpy
-4. ![github-small](verif numpy.png)
+4. ![github-small](https://raw.githubusercontent.com/Dezeta22/Laboratorio-2/main/verif%20numpy.png)
