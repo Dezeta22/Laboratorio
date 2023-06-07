@@ -4,4 +4,4 @@ NumPy (Numerical Python) es una biblioteca de Python utilizada para realizar cá
 vamos a instalar la librería NumPy para realizar esto puedes utilizar pip, que es el administrador de paquetes de Python.
 1.	Abre una terminal o línea de comandos.
 2.	2.	Ejecuta el siguiente comando para instalar NumPy: pip install numpy
-![github-small](/images/Adsız.png)
+![github-small](/main/numpy.png)
